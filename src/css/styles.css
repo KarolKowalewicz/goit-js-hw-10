@@ -30,3 +30,22 @@ li {
   align-items: center;
   margin-bottom: 25px;
 }
+
+.flags-big_img {
+  object-fit: contain;
+  box-shadow: 2px 2px 5px black;
+  margin-right: 10px;
+  width: 150px;
+}
+
+.flags-mini_img {
+  object-fit: contain;
+  margin-right: 10px;
+  height: 25px;
+  box-shadow: 2px 2px 5px black;
+}
+
+span {
+  font-weight: bold;
+  margin-right: 5px;
+}
